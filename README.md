@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/YoloWorld-EfficientSAM-jupyter/blob/main/YoloWorld_EfficientSAM_gradio_jupyter.ipynb) | YoloWorld_EfficientSAM_gradio_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/YOLO-World-jupyter/blob/main/YOLO_World_gradio_jupyter.ipynb) | YOLO_World_gradio_jupyter
 
 ### 🧬 Code
 https://github.com/AILab-CVC/YOLO-World <br />
